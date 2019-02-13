@@ -1,2 +1,2 @@
-# Reach-Swift-5
-Checking internet on Swift 5 
+# Reach-Swift
+Checking internet using the latest swift. 
